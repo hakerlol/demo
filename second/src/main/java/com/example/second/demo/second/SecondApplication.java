@@ -11,7 +11,7 @@ public class SecondApplication {
 
     @GetMapping(path="/main")
     public String get(){
-        return "Tarara";
+        return "4815162342";
     }
 
     public static void main(String[] args) {
