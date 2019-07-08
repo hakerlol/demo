@@ -11,7 +11,7 @@ public class SecondApplication {
 
     @GetMapping(path="/main")
     public String get(){
-        return "4815162342";
+        return "1234567890";
     }
 
     public static void main(String[] args) {
