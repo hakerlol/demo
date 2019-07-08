@@ -11,7 +11,7 @@ public class SecondApplication {
 
     @GetMapping(path="/main")
     public String get(){
-        return "220";
+        return "wow";
     }
 
     public static void main(String[] args) {
